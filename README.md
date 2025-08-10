@@ -66,7 +66,7 @@ Contributions are welcome! Fork the repo, make your changes, and open a pull req
 
 ## Contact
 
-Have questions or feedback? Open an issue or email [your-email@example.com].
+Have questions or feedback? Open an issue or email tharunbudidha@gmail.com.
 
 ---
 
